@@ -12,7 +12,7 @@ Getting Started
 Clone the Repository:
 
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Husnain2024/login-register-node-js..git
 Install Dependencies:
 
 
